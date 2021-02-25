@@ -23,6 +23,8 @@ configuration is composed of two pieces:
 Each of these concepts will be covered incrementally over the course of several example
 configurations in the following section.
 
+
+
 Example configuration
 ---------------------
 
